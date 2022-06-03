@@ -1,4 +1,4 @@
-POST - /cadastrar
+POST - /cadastrar.php
 {
 	"registro":{
 	"coluna1": "teste1",
