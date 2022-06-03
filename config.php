@@ -2,8 +2,8 @@
 //=================================================
 // PARAMENTROS DO BANCO DE DADOS - POSTGRESQL + PDO
 //=================================================
-define('HOST', '192.168.1.2');
+define('HOST', '127.0.0.1');
 define('PORT', '5432');
-define('DBNAME', 'postgres');
-define('USER', 'caridade');
-define('PASS', 'dev');
+define('DBNAME', 'teste');
+define('USER', 'teste');
+define('PASS', 'teste');
